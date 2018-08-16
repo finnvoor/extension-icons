@@ -8,7 +8,7 @@ These icons are licensed under an [MIT license](https://opensource.org/licenses/
 
 ### Download
 
-All files are available in either 1024x1024, 512x512, 128x128, or 64x64. This is the format of each file
+All files are available in either 512x512, 128x128, or 64x64. This is the format of each file
 
      file-extension-size_x_size.png
      pdf-512_x_512.png
