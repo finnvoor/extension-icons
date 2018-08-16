@@ -4,7 +4,7 @@
 Icons for various popular file extensions loosely based off the github language colours
 
 ## License
-These icons are under an [MIT license](https://opensource.org/licenses/MIT) meaning anyone can use, edit, or redistribute these files.
+These icons are licensed under an [MIT license](https://opensource.org/licenses/MIT), meaning anyone can use, edit, or redistribute these files with no attribution required.
 
 ### Download
 
