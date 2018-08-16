@@ -1,7 +1,7 @@
 ##  File Extension Icons
 ![PDF](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/pdf-128_x_128.png) ![Python](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/py-128_x_128.png) ![Visual Basic](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/vb-128_x_128.png) ![PHP](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/php-128_x_128.png)
 
-Icons for various popular file extensions loosely based off the github language colours
+Icons for various popular file extensions loosely based off the github language colours. There is a folder icon and misc file icon in each size as well.
 
 ## License
 These icons are licensed under an [MIT license](https://opensource.org/licenses/MIT), meaning anyone can use, edit, or redistribute these files with no attribution required.
