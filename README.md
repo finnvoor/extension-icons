@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+##  File Extension Icons
+![PDF](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/pdf-128_x_128.png) ![Python](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/py-128_x_128.png) ![Visual Basic](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/vb-128_x_128.png) ![PHP](https://raw.githubusercontent.com/Finnvoor/Extension-Icons/master/Icons/128/php-128_x_128.png)
 
-You can use the [editor on GitHub](https://github.com/Finnvoor/Extension-Icons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Icons for various popular file extensions loosely based off the github language colours
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## License
+These icons are under an [MIT license](https://opensource.org/licenses/MIT) meaning anyone can use, edit, or redistribute these files.
 
-### Markdown
+### Download
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All files are available in either 1024x1024, 512x512, 128x128, or 64x64. This is the format of each file
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Finnvoor/Extension-Icons/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+     file-extension-size_x_size.png
+     pdf-512_x_512.png
+    
+Files are located in the Icons folder
